@@ -1,0 +1,30 @@
+#+hugo_base_dir: ../
+
+
+#+DATE: [2024-09-13 Fri 19:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Org2Blog, WordPress
+#+TAGS: Emacs, Lisp
+#+DESCRIPTION:
+#+TITLE: Emacs  for Students
+
+
+Easily get an A+ with Emacs.
+If you are set on a career in research, then you are up for the long-term. Future proofing your data should be your first concern. Proprietary files will lock you from accessing your collected data. Instead text file is the way to go, and Emacs got you covered.
+
+* Notetaking
+
+* Writing
+:PROPERTIES:
+:ID:       o2b:69af2404-c6a7-4372-a9e1-23aa7939de84
+:POST_DATE: [2024-09-13 Fri 22:18]
+:END:
+
+* Research
+
+* Bibliography and Citations
+
+* Exporting to PDF and Word
+
+* Exporting to Presentation
+Are you ready to present your research to the public? Emacs has packages to help your make presentations instantly. With Org-reveal, your org file can convert into HTML-based presentation which you can show using a browser.

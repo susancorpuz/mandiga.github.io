@@ -1,0 +1,155 @@
+---
+title: "Emacs for Students, Writers, Researchers"
+date: 2024-09-13T23:13:38+08:00
+draft: true
+---
+
+Doom Emacs for Mac can help you easily get an A+. But here's the caveat: you will need patience in setting it up. And when you do, let this be a warning: you will get hooked and will forever try to tinker with it.
+
+Once you find the right workflow, you will find your zen.
+
+Why Emacs in the first place? If you are set on a career in research, then you are up for the long-term. Future proofing your data should be your first concern. Proprietary files will lock you from accessing your collected data. Instead text file is the way to go, and Emacs got you covered.
+
+Secondly, it's the workflow and the interface that will make you focus on your studies, research or writing.
+
+Let me share with you my Doom Emacs for Mac setup. Here are the packages I find very useful for scholars:
+
+
+** Doom Emacs for Mac
+Doom Emacs for Mac has a
+
+Org-mode is the base
+
+** Basic look
+
+Doom Emacs
+
+
+Fonts
+Dashboard
+Modeline
+Minibuffer
+YASnippet
+Projects
+Workspace (Perspectives)
+
+
+** Planning  and Tasking
+
+ORG
+- TODO List
+- Dates and Scheduling, Deadline
+- Calendar
+- Logbook
+
+Packages:
+1. Org-agenda
+2. Org-super agenda
+3. Org-habit
+
+** Data-gathering, Notetaking and Documentation
+Notes during lectures, seminars, conferences; data-gathering and interview during fieldwork
+
+- TODO List
+- Logbook
+- Logging Work
+- Clock in Task
+- Start Timer
+- Pomodoro
+
+- Diary
+- Ledger
+- Table
+- Calculator
+
+- Email
+
+
+Packages:
+1. Org-journal
+2. Org-noter
+3. Org-roam
+4. Org-mobile
+5. Other mobile apps for ORG-MODE
+
+
+**  Transcription
+
+
+
+**  Research
+Library research, in real libraries or online, finding related literature
+
+- Eww
+- Bookmarks
+- Citations, Bibliography, References
+- Downloading from the Internet
+
+Packages:
+1. Org-ref
+2. Cite
+3. Biblio
+4. Org-download
+
+**  Writing
+
+
+Zen mode
+Dictionary
+Thesaurus
+Grammar and Spelling
+Search through your Database
+
+Packages:
+1. Flyspell
+
+
+** Tables, Graphs, and Images
+
+Table
+
+Packages:
+1. Org-roam-UI
+
+**  Bibliography and Citations
+
+Org-ref
+Citar
+
+
+**  Exporting to PDF, Word, Text, Html, etc.
+
+
+Org-pandoc
+Latex
+PDFTools
+
+
+**  Exporting to Presentation
+Are you ready to present your research to the public? Emacs has packages to help you make presentations instantly. With Org-reveal, your org file can convert into HTML-based presentation which you can show using a browser.
+
+**** Download org-reveal: https://github.com/hakimel/reveal.js/
+
+git clone https://github.com/yjwen/org-reveal.git
+
+**** Customization: https://github.com/yjwen/org-reveal
+
+
+** Website
+
+Ox-hugo
+Org2Blog
+
+
+** Quiz/Flashcard
+
+https://orgmode.org/worg/org-contrib/org-drill.html
+
+
+** Games
+
+Tetris
+Snake
+Pong
+
+** Emacs Psychotherapist
