@@ -10,19 +10,18 @@ I'd love to hear from you! Feel free to reach out.
 
 ### Contact Information
 
-**Email:** your.email@example.com  
-**Phone:** +1 (555) 123-4567  
-**Location:** Your City, Country
+**Email:** me@susancorpuz.com  
+**Location:** Philippines
 
 ### Social Links
 
-- [GitHub](https://github.com)
-- [LinkedIn](https://linkedin.com)
-- [Twitter](https://twitter.com)
+- [GitHub](https://github.com/susancorpuz)
+- [LinkedIn](https://linkedin.com/in/susancorpuz)
+- [Instagram](https://imstagram.com/mandigashop)
 
 ### Send a Message
 
-For inquiries, please send me an email at your.email@example.com
+For inquiries, please send me an email at me@susancorpuz.com
 
 ---
 

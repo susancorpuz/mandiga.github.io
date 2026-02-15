@@ -8,7 +8,10 @@ url: "/resume/"
 
 ### Experience
 
-**Senior Developer** | Company Name | 2022 - Present
+**Documentor, Translator, Researcher** | Project-based | 2007 - Present
+
+
+**Senior Developer** | Freelance | 2005 - Present
 - Led development of key features
 - Mentored junior developers
 - Improved performance by 40%
@@ -18,14 +21,18 @@ url: "/resume/"
 - Managed databases and APIs
 - Collaborated with design team
 
+
 ### Education
 
-**Bachelor of Science in Computer Science**
-University Name | 2020
+**Masters in Art History**
+University of the Philippines
+
+**Bachelor of Fine Arts**
+University of the Philippines
 
 ### Certifications
-- AWS Certified Solutions Architect
-- Google Cloud Professional
+- AWS
+- Pycon 2023, 2024, 2025
 
 ---
 

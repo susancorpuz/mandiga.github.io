@@ -1,40 +1,78 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Home on Portfolio</title><link>https://mandiga.github.io/</link><description>Recent content in Home on Portfolio</description><generator>Hugo -- 0.155.3</generator><language>en-us</language><atom:link href="https://mandiga.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://mandiga.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mandiga.github.io/about/</guid><description>&lt;h2 id="hello-im-susan"&gt;Hello! I&amp;rsquo;m Susan&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m a passionate developer and designer creating beautiful digital experiences.&lt;/p&gt;
-&lt;h3 id="skills"&gt;Skills&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on Susan Corpuz</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Susan Corpuz</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;hello-im-susan&#34;&gt;Hello! I&amp;rsquo;m Susan&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m a multidisciplinary documenter, weaving research, storytelling, and visual work.&lt;/p&gt;
+&lt;h3 id=&#34;skills&#34;&gt;Skills&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;Documentation, Photography, Illustration&lt;/li&gt;
 &lt;li&gt;Web Development&lt;/li&gt;
 &lt;li&gt;Design&lt;/li&gt;
 &lt;li&gt;Problem Solving&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="background"&gt;Background&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description></item><item><title>Contact</title><link>https://mandiga.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mandiga.github.io/contact/</guid><description>&lt;h2 id="get-in-touch"&gt;Get In Touch&lt;/h2&gt;
+&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;
+&lt;p&gt;Susan is a Filipino artmaker, writer, and researcher whose work traverses the intersection of visual culture, political critique, and historical inquiry. Trained in Fine Arts at the University of the Philippines Diliman and currently pursuing a master’s degree in Art History, she blends academic rigor with a realist artistic practice grounded in watercolor and oil painting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get In Touch&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;d love to hear from you! Feel free to reach out.&lt;/p&gt;
-&lt;h3 id="contact-information"&gt;Contact Information&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href="mailto:your.email@example.com"&gt;your.email@example.com&lt;/a&gt;&lt;br&gt;
-&lt;strong&gt;Phone:&lt;/strong&gt; +1 (555) 123-4567&lt;br&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Your City, Country&lt;/p&gt;
-&lt;h3 id="social-links"&gt;Social Links&lt;/h3&gt;
+&lt;h3 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:me@susancorpuz.com&#34;&gt;me@susancorpuz.com&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Philippines&lt;/p&gt;
+&lt;h3 id=&#34;social-links&#34;&gt;Social Links&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://linkedin.com"&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://twitter.com"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/susancorpuz&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linkedin.com/in/susancorpuz&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://imstagram.com/mandigashop&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="send-a-message"&gt;Send a Message&lt;/h3&gt;
-&lt;p&gt;For inquiries, please send me an email at &lt;a href="mailto:your.email@example.com"&gt;your.email@example.com&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;send-a-message&#34;&gt;Send a Message&lt;/h3&gt;
+&lt;p&gt;For inquiries, please send me an email at &lt;a href=&#34;mailto:me@susancorpuz.com&#34;&gt;me@susancorpuz.com&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;Looking forward to connecting with you!&lt;/p&gt;</description></item><item><title>Projects</title><link>https://mandiga.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mandiga.github.io/projects/</guid><description>&lt;h2 id="my-work"&gt;My Work&lt;/h2&gt;
+&lt;p&gt;Looking forward to connecting with you!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;my-work&#34;&gt;My Work&lt;/h2&gt;
 &lt;p&gt;Here are some of my recent projects:&lt;/p&gt;
-&lt;h3 id="project-1-website-redesign"&gt;Project 1: Website Redesign&lt;/h3&gt;
+&lt;h3 id=&#34;project-1-website-redesign&#34;&gt;Project 1: Website Redesign&lt;/h3&gt;
 &lt;p&gt;A modern portfolio website built with Hugo and PaperMod theme.
 &lt;strong&gt;Technologies:&lt;/strong&gt; Hugo, HTML, CSS&lt;/p&gt;
-&lt;h3 id="project-2-mobile-app"&gt;Project 2: Mobile App&lt;/h3&gt;
+&lt;h3 id=&#34;project-2-mobile-app&#34;&gt;Project 2: Mobile App&lt;/h3&gt;
 &lt;p&gt;A responsive mobile application for task management.
 &lt;strong&gt;Technologies:&lt;/strong&gt; React, JavaScript, Firebase&lt;/p&gt;
-&lt;h3 id="project-3-open-source-contribution"&gt;Project 3: Open Source Contribution&lt;/h3&gt;
+&lt;h3 id=&#34;project-3-open-source-contribution&#34;&gt;Project 3: Open Source Contribution&lt;/h3&gt;
 &lt;p&gt;Contributed to several open-source projects.
-&lt;strong&gt;Technologies:&lt;/strong&gt; Python, JavaScript&lt;/p&gt;</description></item><item><title>Resume</title><link>https://mandiga.github.io/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mandiga.github.io/resume/</guid><description>&lt;h2 id="my-resume"&gt;My Resume&lt;/h2&gt;
-&lt;h3 id="experience"&gt;Experience&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Senior Developer&lt;/strong&gt; | Company Name | 2022 - Present&lt;/p&gt;
+&lt;strong&gt;Technologies:&lt;/strong&gt; Python, JavaScript&lt;/p&gt;
+&lt;h3 id=&#34;project-4-product-design&#34;&gt;Project 4: Product Design&lt;/h3&gt;
+&lt;p&gt;Mass manufactured facemasks using textile handwoven by women of Kalinga.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h2 id=&#34;my-resume&#34;&gt;My Resume&lt;/h2&gt;
+&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Documentor, Translator, Researcher&lt;/strong&gt; | Project-based | 2007 - Present&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Senior Developer&lt;/strong&gt; | Freelance | 2005 - Present&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Led development of key features&lt;/li&gt;
 &lt;li&gt;Mentored junior developers&lt;/li&gt;
@@ -46,23 +84,26 @@
 &lt;li&gt;Managed databases and APIs&lt;/li&gt;
 &lt;li&gt;Collaborated with design team&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="education"&gt;Education&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Bachelor of Science in Computer Science&lt;/strong&gt;
-University Name | 2020&lt;/p&gt;
-&lt;h3 id="certifications"&gt;Certifications&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;AWS Certified Solutions Architect&lt;/li&gt;
-&lt;li&gt;Google Cloud Professional&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;a href="#"&gt;Download Full Resume (PDF)&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Services</title><link>https://mandiga.github.io/services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mandiga.github.io/services/</guid><description>&lt;h2 id="what-i-offer"&gt;What I Offer&lt;/h2&gt;
-&lt;h3 id="web-development"&gt;Web Development&lt;/h3&gt;
+&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Masters in Art History&lt;/strong&gt;
+University of the Philippines&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bachelor of Fine Arts&lt;/strong&gt;
+University of the Philippines&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>&lt;h2 id=&#34;what-i-offer&#34;&gt;What I Offer&lt;/h2&gt;
+&lt;h3 id=&#34;documentation&#34;&gt;Documentation&lt;/h3&gt;
+&lt;p&gt;Integral to the workflow in knowledge management, communication, planning, and accountability for corporate, institution, or academic work are notes, reports, transcriptions, and translation (to English) of your meetings and conferences that are clear and concise.&lt;/p&gt;
+&lt;h3 id=&#34;web-development&#34;&gt;Web Development&lt;/h3&gt;
 &lt;p&gt;Custom websites and web applications tailored to your needs.&lt;/p&gt;
-&lt;h3 id="design"&gt;Design&lt;/h3&gt;
-&lt;p&gt;Beautiful, user-friendly UI/UX design for digital products.&lt;/p&gt;
-&lt;h3 id="consulting"&gt;Consulting&lt;/h3&gt;
-&lt;p&gt;Technical advice and strategy for your projects.&lt;/p&gt;
-&lt;h3 id="freelance-work"&gt;Freelance Work&lt;/h3&gt;
-&lt;p&gt;Available for short-term and long-term projects.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Interested?&lt;/strong&gt; Get in touch via the contact page.&lt;/p&gt;</description></item></channel></rss>
+&lt;h3 id=&#34;design&#34;&gt;Design&lt;/h3&gt;
+&lt;p&gt;Beautiful, user-friendly UI/UX design for digital product and infographics, layout of books and magazines.&lt;/p&gt;
+&lt;h3 id=&#34;consulting&#34;&gt;Consulting&lt;/h3&gt;
+&lt;p&gt;Technical advice and strategy for your projects.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

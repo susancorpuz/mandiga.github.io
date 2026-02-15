@@ -19,3 +19,6 @@ A responsive mobile application for task management.
 ### Project 3: Open Source Contribution
 Contributed to several open-source projects.
 **Technologies:** Python, JavaScript
+
+### Project 4: Product Design
+Mass manufactured facemasks using textile handwoven by women of Kalinga.
