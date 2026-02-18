@@ -36,10 +36,10 @@ theme = "PaperMod"
 
 [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/susancorpuz"
+  url = "https://github.com/"
 [[params.socialIcons]]
   name = "linkedin"
-  url = "https://linkedin.com/susancorpuz"
+  url = "https://linkedin.com/"
 
 [caches]
   [caches.images]
