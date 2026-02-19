@@ -17,7 +17,7 @@ I'd love to hear from you! Feel free to reach out.
 
 - [GitHub](https://github.com/susancorpuz)
 - [LinkedIn](https://linkedin.com/in/susancorpuz)
-- [Instagram](https://imstagram.com/mandigashop)
+- [Instagram](https://imstagram.com/mandigaworkshop)
 
 ### Send a Message
 

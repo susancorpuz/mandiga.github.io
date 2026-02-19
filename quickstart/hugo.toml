@@ -43,6 +43,9 @@ theme = "PaperMod"
 [[params.socialIcons]]
   name = "linkedin"
   url = "https://linkedin.com/"
+[[params.socialIcons]]
+  name = "instagram"
+  url = "https://instagram.com/"
 
 [caches]
   [caches.images]
