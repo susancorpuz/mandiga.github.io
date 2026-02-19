@@ -1,4 +1,4 @@
-baseURL = 'https://mandiga.github.io/'
+baseURL = 'https://susancorpuz.github.io/mandiga.github.io/'
 languageCode = 'en-us'
 title = 'Susan Corpuz'
 
@@ -39,13 +39,13 @@ theme = "PaperMod"
 
 [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/"
+  url = "https://github.com/susancorpuz"
 [[params.socialIcons]]
   name = "linkedin"
-  url = "https://linkedin.com/"
+  url = "https://linkedin.com/in/susancorpuz"
 [[params.socialIcons]]
   name = "instagram"
-  url = "https://instagram.com/"
+  url = "https://instagram.com/mandigaworkshop"
 
 [caches]
   [caches.images]
