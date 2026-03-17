@@ -1,6 +1,6 @@
 [build]
   base = "quickstart"
-  publish = "quickstart/public"
+  publish = "public"           # <-- change from "quickstart/public"
   command = "hugo mod get && hugo --gc --minify"
 
 [build.environment]
