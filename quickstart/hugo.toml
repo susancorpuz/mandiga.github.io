@@ -1,7 +1,7 @@
-baseURL = 'https://mandiga.netlify.app/'
+#baseURL = 'https://mandiga.netlify.app/'
 # not localhost:1313
 
-#baseURL = 'https://mandiga.github.io/'
+baseURL = 'https://mandiga.github.io/'
 languageCode = 'en-us'
 title = 'Susan Corpuz'
 
