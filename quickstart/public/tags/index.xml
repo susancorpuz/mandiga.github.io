@@ -4,8 +4,10 @@
     <title>Tags on Susan Corpuz</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Susan Corpuz</description>
-    <generator>Hugo -- 0.155.3</generator>
+    <generator>Hugo -- 0.159.1</generator>
     <language>en-us</language>
+    <managingEditor>me@susancorpuz.com (Susan Corpuz)</managingEditor>
+    <webMaster>me@susancorpuz.com (Susan Corpuz)</webMaster>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

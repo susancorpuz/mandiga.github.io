@@ -1,29 +1,29 @@
 
 * Posts
 
-** TODO Blog
+** Post 1: Hello there!
 :PROPERTIES:
-:EXPORT_FILE_NAME: blog
+:EXPORT_FILE_NAME: hello-there
 :EXPORT_DATE: <2026-03-27 Fri 23:07>
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :tags something :subtitle booyea :featured false :categories abc :highlight true
 :END:
 Testing blog in org mode.
 Hello there!
-** TODO Posting blogs using emacs
+** Post 2: Posting blogs using emacs
 :PROPERTIES:
 :EXPORT_FILE_NAME: posting-blogs-using-emacs
 :EXPORT_DATE: <2026-03-27 Fri 23:11>
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :tags something :subtitle booyea :featured false :categories abc :highlight true
 :END:
 Posting blogs using emacs here....
-** TODO Note-taking
+** Post 3: Note-taking
 :PROPERTIES:
 :EXPORT_FILE_NAME: note-taking
 :EXPORT_DATE: <2026-03-27 Fri 23:12>
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :tags something :subtitle booyea :featured false :categories abc :highlight true
 :END:
 Note-taking ....
-** POST: Hello, world!
+** POS 4: Hello, world!
 :PROPERTIES:
 :EXPORT_FILE_NAME: hello-world
 :EXPORT_DATE: <2026-03-27 Fri 23:18>
