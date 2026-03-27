@@ -10,7 +10,7 @@ A collection of thoughts, observations, and insights from my work and exploratio
 
 ### Latest Notes
 
-Coming soon...
+Coming soon...[here](https://susancorpuz.com/content-org/blog.md)
 
 ---
 
