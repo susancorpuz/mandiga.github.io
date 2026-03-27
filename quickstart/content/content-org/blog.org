@@ -23,7 +23,7 @@ Posting blogs using emacs here....
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :tags something :subtitle booyea :featured false :categories abc :highlight true
 :END:
 Note-taking ....
-** POS 4: Hello, world!
+** Post 4: Hello, world!
 :PROPERTIES:
 :EXPORT_FILE_NAME: hello-world
 :EXPORT_DATE: <2026-03-27 Fri 23:18>

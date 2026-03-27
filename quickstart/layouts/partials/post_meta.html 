@@ -1,0 +1,9 @@
+<div class="post-meta">
+{{- with .Params.author -}}
+<span>{{ . }}</span>
+{{- else -}}
+{{- with .Site.Params.author.name -}}
+<span>{{ . }}</span>
+{{- end -}}
+{{- end -}}
+</div>

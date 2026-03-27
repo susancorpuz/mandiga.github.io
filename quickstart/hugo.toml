@@ -1,4 +1,4 @@
- #disableKinds = ["RSS"]
+
 baseURL = 'https://www.susancorpuz.com/'
 # not localhost:1313
 
@@ -40,7 +40,7 @@ theme = "PaperMod"
   [[params.profileMode.buttons]]
     name = "Contact"
     url = "contact"
-    
+
 [params.author]
 name = "Susan Corpuz"
 email = "me@susancorpuz.com" # RSS needs this
